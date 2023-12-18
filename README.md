@@ -247,4 +247,4 @@ The following are the steps to build image classification using MobileNetV2 tran
     ```
 
 ## License
-This project is licensed under the terms of the CH2-PS252 Team - Capstone Project at Bangkit Academy 2023 Batch 2.
+[Makara's MIT License](https://github.com/makaraapps/makaraapps/blob/main/LICENSE)
