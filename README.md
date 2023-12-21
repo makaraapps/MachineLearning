@@ -247,4 +247,4 @@ The following are the steps to build image classification using MobileNetV2 tran
     ```
 
 ## License
-[Makara's MIT License](https://github.com/makaraapps/MachineLearning/blob/main/LICENSE)
+[Machine Learning's MIT License](https://github.com/makaraapps/MachineLearning/blob/main/LICENSE)
